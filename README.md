@@ -43,7 +43,7 @@ manifestações da comunidade acadêmica de forma simples e organizada.
 ```
 ouvidoria-sapinho/
 │
-├── main.py          # Menu principal e loop de interação com o usuário
+├── menu-final.py          # Menu principal e loop de interação com o usuário
 ├── ouvidoria.py     # Funções de negócio (inserir, listar, pesquisar etc.)
 └── operacoesbd.py   # Funções de acesso ao banco de dados (CRUD genérico)
 ```
