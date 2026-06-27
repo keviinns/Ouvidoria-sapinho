@@ -13,6 +13,8 @@ manifestações da comunidade acadêmica de forma simples e organizada.
 | Kevin Macedo Gonçalves         |
 | Ariberto Andrade da Silva      |
 | Hymura Natsuki Rodrigues Sousa |
+| Rafael Henrique                |
+| Nicolas dos Santos             |
 
 ---
 
